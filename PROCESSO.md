@@ -74,7 +74,7 @@ Na `DetalheHabitoScreen`, implementei:
 ## Screenshots Comparativos do Progresso
 
 ### Telas Antigas
-![Antigas](screenshots/telas_antigas.jpg)
+![Antigas](screenshots/telas_atingas.jpg)
 
 ### Telas Novas
 ![Novas](screenshots/telas_novas.jpg)

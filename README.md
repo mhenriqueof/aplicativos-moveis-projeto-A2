@@ -81,4 +81,3 @@ app/src/main/java/com/example/habittracker/
 ## Observações
 - Os dados vivem apenas em memória (`mutableStateListOf`). Ao fechar o app, as alterações são perdidas.
 - Persistência com Room/DataStore será implementada em trabalho futuro.
-```
